@@ -15,7 +15,7 @@ Unlike traditional ETL where the transformation happens in a middle-tier server 
 ## 📸 Pipeline Visualization
 
 ### Airflow DAG: Task Execution Graph
-![Airflow DAG Graph](./screenshot/dbt_dag_graph.png)
+![Airflow DAG Graph](./screenshot/dbt_dag-graph.png)
 
 ### Airflow UI: Successful Execution
 ![Airflow Success State](./screenshot/tampilan_airflow.png)
